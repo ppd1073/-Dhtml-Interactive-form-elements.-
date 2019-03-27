@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+body {
+  background-image: url("images/background1.jpg");
+  color: white;
+   }
+#mydiv{
+  height: 50px;
+}
+
+ select {
+        margin: 30px;
+        text-align: left;
+        width: 140px;
+        height: 40px;
+        background: #40393A;
+        color: #DB1529;
+        font-weight: bold;
+    }
+
+  h1 {
+        text-align: left;
+        color:#DB1529;
+        font-weight: bold;
+        margin-top: 15px;
+        text-align: center;
+        margin-bottom: 15px;
+
+
+    }
+
+#Username{
+  margin-left:50px;
+  margin-top:200px;
+  background: #40393A;
+  color: #DB1529;
+  width: 140px;
+  height: 40px;
+
+}
+
+
+
+#chara{
+
+    margin-top:250px;
+    background: #40393A;
+    color: #DB1529;
+    width: 140px;
+    height: 40px;
+    margin-left: 40px;
+
+}
+
+
+#button1 {
+    width: 100px;
+    height: 50px;
+    background:#40393A;
+    color: #DB1529;
+    border: 1px solid #ffffff;
+    margin-left: 40px;
+    padding: 10px;
+}
+
+#button2 {
+    width: 100px;
+    height: 50px;
+    background: #40393A;
+    color: #DB1529;
+    border: 1px solid #ffffff;
+    margin-left:50px;
+    padding: 10px;
+
+}
+
+#form1{
+  margin-top: 20px;
+}
+
+#imgid{
+
+  width: 300px;
+  height: 200px;
+  position: absolute;
+  margin-left: 20px;
+  margin-top: 50px;
+}
+
+#result{
+  color: #DB1529;
+}
+
+#choiceResult{
+  color: #DB1529;
+}
